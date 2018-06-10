@@ -1,0 +1,30 @@
+describe("whatCanIDrink", function(){
+        describe("age addition", function(){
+        it("should return", function(){
+        expect(whatCanIDrink)), toBeDefined();
+        })
+})
+
+it("should return'Sorry, I can't tell what drink because that age is incorrect!'", function(){
+age addition(less than 0);
+})
+
+it("should return'Drink Toddy', function(){
+age addition( less than 14);
+})
+
+
+it("should return'Drink Coke', function(){
+age addition( less than 18);
+})
+
+it("should return'Drink Beer', function(){
+age addition( less than 21);
+})
+
+it("should return'Drink Whiskey', function(){
+age addition( less than 130);
+})
+
+else { return ("Sorry, I can't tell what drink because that age is incorrect!");
+}
